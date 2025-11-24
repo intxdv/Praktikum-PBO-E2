@@ -13,7 +13,7 @@ Repositori ini merupakan dokumentasi lengkap dari perjalanan pembelajaran konsep
 - **Kelas**: E2
 - **Program Studi**: Informatika
 - **Universitas**: Universitas Diponegoro
-- **Tahun**: 2025
+- **Tahun**: 2023
 
 ## 📂 Struktur Folder
 
