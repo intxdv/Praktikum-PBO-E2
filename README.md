@@ -181,7 +181,7 @@ Repository ini dibuat untuk keperluan akademik dan pembelajaran. Silakan gunakan
 
 ## 🙏 Acknowledgments
 
-- **Dosen Pengampu**: Mata Kuliah Pemrograman Berorientasi Objek
+- **Dosen Pengampu**: Bu Khadijah sama Pak Edy
 - **Universitas Diponegoro** - Fakultas Sains dan Matematika
 - **Departemen Informatika**
 
